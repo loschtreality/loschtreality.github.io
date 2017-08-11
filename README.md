@@ -1,2 +1,0 @@
-# loschtreality.github.io
-website
